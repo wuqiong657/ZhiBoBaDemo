@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:icon="@drawable/ronaldo"
+        android:id="@+id/ronaldo"
+        android:showAsAction="always"
+        android:title="Ronaldo" />
+
+    <item
+        android:id="@+id/korea"
+        android:icon="@drawable/korea"
+        android:showAsAction="never"
+        android:title="Korea"
+        />
+</menu>
